@@ -7,3 +7,6 @@
 /var/*
 /bin/
 .idea/*
+idea/*
+tests/*
+phpunit.xml.dist
