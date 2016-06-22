@@ -9,4 +9,5 @@
 .idea/*
 idea/*
 tests
-/composer.phar
+.idea/workspace.xml
+ .idea/userToDo.iml
